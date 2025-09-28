@@ -1,0 +1,8 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Power Platform build outputs (we don't track built .zip packages)
+packages/*.zip
+packages/*.managed.zip
+packages/*.unmanaged.zip
